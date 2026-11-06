@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/agentclientprotocol/python-sdk/commit/9853d8b514d6340000bcbd01ec07808436db80cf",
       "git:hexsha": "9853d8b514d6340000bcbd01ec07808436db80cf",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/agentclientprotocol/python-sdk/commit/12a8407cb8a4404598590f22f1ba2ba486282f9a",
