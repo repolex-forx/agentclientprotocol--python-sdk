@@ -3,6 +3,11 @@
   "repo": "python-sdk",
   "versions": [
     {
+      "commit": "093a562a59bdec3c8bb62ff826cf86e67c427a7c",
+      "tag": "0.9.0",
+      "parsed_at": "2026-11-22T07:04:59.117942+00:00"
+    },
+    {
       "commit": "9853d8b514d6340000bcbd01ec07808436db80cf",
       "tag": "",
       "parsed_at": "2026-11-06T02:40:03.970232+00:00"
