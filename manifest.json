@@ -408,7 +408,9 @@
           "raw_name": "pydantic_core",
           "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/pydantic_core/_pydantic_core/__init__.pyi"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/093a562a59bdec3c8bb62ff826cf86e67c427a7c/chunk-001.nq.gz",
+      "dep": "dep/093a562a59bdec3c8bb62ff826cf86e67c427a7c.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
