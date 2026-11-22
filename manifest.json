@@ -365,6 +365,49 @@
       ],
       "ast": [
         "aggregate/ast/093a562a59bdec3c8bb62ff826cf86e67c427a7c/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/093a562a59bdec3c8bb62ff826cf86e67c427a7c.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "pydantic",
+          "ecosystem": "PYPI",
+          "version": "2.7",
+          "githubOrg": "pydantic",
+          "githubRepo": "pydantic",
+          "githubUrl": "https://github.com/pydantic/pydantic",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "logfire",
+          "ecosystem": "PYPI",
+          "version": "0.14",
+          "githubOrg": "pydantic",
+          "githubRepo": "logfire",
+          "githubUrl": "https://github.com/pydantic/logfire",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "opentelemetry-sdk",
+          "ecosystem": "PYPI",
+          "version": "1.28.0",
+          "githubOrg": "open-telemetry",
+          "githubRepo": "opentelemetry-python",
+          "githubCommit": "91c7a05767bc480efbdac32a119110f56512d179",
+          "githubTag": "v1.28.0",
+          "githubUrl": "https://github.com/open-telemetry/opentelemetry-python",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pydantic-core",
+          "ecosystem": "PYPI",
+          "version": "2.50.5",
+          "githubOrg": "pydantic",
+          "githubRepo": "pydantic",
+          "githubUrl": "https://github.com/pydantic/pydantic",
+          "source": "lsp",
+          "raw_name": "pydantic_core",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/pydantic_core/_pydantic_core/__init__.pyi"
+        }
       ]
     }
   ],
